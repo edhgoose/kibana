@@ -96,6 +96,6 @@
     "requirejs": "~2.1.14",
     "rjs-build-analysis": "0.0.3",
     "simple-git": "^0.11.0",
-    "tar": "^1.0.1"
+    "tar": "^6.0.2"
   }
 }
